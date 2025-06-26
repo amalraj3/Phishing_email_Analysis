@@ -1,9 +1,9 @@
 # Phishing_email_Analysis
-📄 Project Overview
+## 📄 Project Overview
 
 This repository contains the detailed analysis of a phishing email impersonating Microsoft. The goal of this investigation is to dissect the email using industry-standard tools and present technical evidence confirming it as a credential theft attempt.
 
-🕵️‍♂️ **Investigation Summary** 
+### 🕵️‍♂️ **Investigation Summary** 
 
 Attack Type: Credential Phishing
 
@@ -18,7 +18,7 @@ Impersonation Method: Fake Microsoft security alert email claiming unusual login
 Goal: Trick users into providing their account credentials.
 
 
-🔧 **Tools Used**
+### 🔧 **Tools Used**
 
   Sublime Security EML Analyzer
   
@@ -28,7 +28,7 @@ Goal: Trick users into providing their account credentials.
 
 
 
-📊 **Evidence Collected :**
+### 📊 **Evidence Collected :**
 
 1️⃣ EML Analyzer Output
 
@@ -68,7 +68,7 @@ Detected:
   
   - Attached Screenshot: Screenshot_virus_total.png
 
-🔒 Conclusion
+### 🔒 Conclusion
 
   This email is a textbook phishing attempt exploiting:
   
@@ -80,7 +80,7 @@ Detected:
 
   - Links flagged by known phishing databases.
 
-❗Users are advised to:  
+###❗Users are advised to:  
 ✔ Report such emails to security teams immediately  
 ✔ Avoid interacting with links or attachments  
 ✔ Educate end-users about verifying sender domains and email headers
